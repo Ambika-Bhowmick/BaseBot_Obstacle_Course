@@ -2,6 +2,11 @@
 Course description and obstacle details. 
 
 How your BaseBot interacts with each obstacle. 
+Cones:
+Seesaw:
+Tunnel:
+Ramp:
+Walls:
 
 How to run your Python script. 
 
